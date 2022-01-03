@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import {Web3ReactProvider} from '@web3-react/core'
+import { useWeb3React } from "@web3-react/core"
 import Web3 from 'web3';
 
 function getLibrary(provider) {
