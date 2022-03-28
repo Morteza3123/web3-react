@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/web3-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/web3-react/static/js/main.54700902.chunk.js",
+    "main.js.map": "/web3-react/static/js/main.54700902.chunk.js.map",
+    "runtime-main.js": "/web3-react/static/js/runtime-main.c53165b7.js",
+    "runtime-main.js.map": "/web3-react/static/js/runtime-main.c53165b7.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/web3-react/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5921bc64.chunk.js": "/web3-react/static/js/2.5921bc64.chunk.js",
+    "static/js/2.5921bc64.chunk.js.map": "/web3-react/static/js/2.5921bc64.chunk.js.map",
+    "static/js/3.b16f8fac.chunk.js": "/web3-react/static/js/3.b16f8fac.chunk.js",
+    "static/js/3.b16f8fac.chunk.js.map": "/web3-react/static/js/3.b16f8fac.chunk.js.map",
+    "static/js/4.42f5b559.chunk.js": "/web3-react/static/js/4.42f5b559.chunk.js",
+    "static/js/4.42f5b559.chunk.js.map": "/web3-react/static/js/4.42f5b559.chunk.js.map",
+    "static/js/5.92bd2a42.chunk.js": "/web3-react/static/js/5.92bd2a42.chunk.js",
+    "static/js/5.92bd2a42.chunk.js.map": "/web3-react/static/js/5.92bd2a42.chunk.js.map",
+    "index.html": "/web3-react/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/web3-react/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/web3-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5921bc64.chunk.js.LICENSE.txt": "/web3-react/static/js/2.5921bc64.chunk.js.LICENSE.txt",
+    "static/media/walletconnect.dfa25e47.svg": "/web3-react/static/media/walletconnect.dfa25e47.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c53165b7.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5921bc64.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.54700902.chunk.js"
+  ]
+}
