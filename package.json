@@ -1,7 +1,7 @@
 {
   "name": "web3-react",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/web3-react",
+  "homepage": "https://Morteza3123.github.io/web3-react",
   "private": true,
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
