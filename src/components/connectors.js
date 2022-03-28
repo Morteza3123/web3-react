@@ -12,7 +12,7 @@ export const injected = new InjectedConnector({
 })
 
 export const walletconnect = new WalletConnectConnector({
-    rpc: { 1 : 'https://mainnet.infura.io/v3/2d0906a37a5c4692aee4f70a2560fd4b' },
+    rpc: { 56 : 'https://bsc-dataseed.binance.org/' },
     bridge: 'https://bridge.walletconnect.org',
     qrcode: true,
     pollingInterval: POLLING_INTERVAL
