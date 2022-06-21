@@ -77,27 +77,27 @@ const showName = async () => {
       <div className="p-5 col d-flex justify-content-center">
         
 
-        <form class="row g-3 card bg-info">
-         <div class="col-auto">
-           {/* <label for="staticEmail2" class="visually-hidden">Email</label> */}
-           {/* <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="email@example.com"/> */}
+        <form className="row g-3 card bg-info">
+         <div className="col-auto">
+           {/* <label for="staticEmail2" className="visually-hidden">Email</label> */}
+           {/* <input type="text" readonly className="form-control-plaintext" id="staticEmail2" value="email@example.com"/> */}
          </div>
-         <div class="col-auto">
+         <div className="col-auto">
            <p className='text-center'>{word}</p>
  
            <input 
            type="text" 
           //  value={this.state.name2} 
            onChange={e=>setValue(e.target.value)}
-           class="form-control" 
+           className="form-control" 
            id="inputPassword2" 
            placeholder="name"
            />
  
          </div>
-         <div class="row-auto">
-           <button type="button" onClick={()=>setName()} class="col btn btn-secondary mb-3">SetName</button>
-            <button type="button" onClick={()=>showName()} class="col btn btn-success mb-3">ShowName</button>
+         <div className="row-auto">
+           <button type="button" onClick={()=>setName()} className="col btn btn-secondary mb-3">SetName</button>
+            <button type="button" onClick={()=>showName()} className="col btn btn-success mb-3">ShowName</button>
          </div>
        </form>
          
